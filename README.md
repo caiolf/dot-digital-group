@@ -1,6 +1,6 @@
 # TESTE TÉCNICO - NÍVEL JÚNIOR
 
-Desenvolvimento de página responsiva como forma de teste para a empresa DOT digital group
+Desenvolvimento de página responsiva como forma de teste para a empresa [DOT digital group](https://dotgroup.com.br/)
 
 ## ✨ Site
 
